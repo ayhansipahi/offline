@@ -1,4 +1,9 @@
-Offline
+___
+ 
+**This project isn't actively maintained.**
+___
+
+ Offline
 ======
 
 **Note to users pre-0.6.0:  Offline previously used a cloudfront hosted file as one of it's methods of detecting the connection status.  This method is now deprecated and the image has been removed.  Please upgrade to Offline 0.7.0+.**
